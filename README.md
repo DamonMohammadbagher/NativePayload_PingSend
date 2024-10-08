@@ -11,7 +11,7 @@
 
 ### Target Platform x64 is ok.
 
-    usage (Run As Admin): NativePayload_PingSend.exe ipaddress "string"    
+    usage: NativePayload_PingSend.exe ipaddress "string"    
       example NativePayload_PingSend.exe 192.168.56.101 "your string which want to send to target ipaddress via icmp ping packets"
 
 
