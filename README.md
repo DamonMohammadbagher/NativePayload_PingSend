@@ -32,6 +32,7 @@ process_packet() {
 # Run tcpdump and process packets
 tcpdump -i any -nn -XX icmp | process_packet
 ```
+
 _____________________________________________
 
            md5 info 74718db7bc753bd2161bf46b0d06a31e => NativePayload_PingSend.exe
