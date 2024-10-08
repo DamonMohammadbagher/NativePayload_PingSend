@@ -1,5 +1,5 @@
 # NativePayload_PingSend
-## NativePayload_PingSend sned data/string (exfiltration) to destination ip via icmp ping packets
+## NativePayload_PingSend send data/string (exfiltration) to destination ip via icmp ping packets
 
 ## as you can see with this code you can send data/string via ping request to linux side via ping linux ipaddress, and in linux side with tcpdump you can dump those string/data in ping packets
 
